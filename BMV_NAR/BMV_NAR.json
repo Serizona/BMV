@@ -37,9 +37,9 @@
             }
         },
         {
-            "name": "graft_1_a10_m2.5.stl",
-            "path": "BMV_NAR/graft_1_a10_m2.5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/graft_1_a10_m2.5.stl",
+            "name": "graft_1_a10_m25.stl",
+            "path": "BMV_NAR/graft_1_a10_m25.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/graft_1_a10_m25.stl",
             "opacity": 0.4,
             "color": "#7f7f7f",
             "material": {
@@ -55,9 +55,9 @@
             }
         },
         {
-            "name": "graft_2_a15_m2.5.stl",
-            "path": "BMV_NAR/graft_2_a15_m2.5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/graft_2_a15_m2.5.stl",
+            "name": "graft_2_a15_m25.stl",
+            "path": "BMV_NAR/graft_2_a15_m25.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/graft_2_a15_m25.stl",
             "opacity": 0.4,
             "color": "#7f7f7f",
             "material": {
@@ -73,9 +73,9 @@
             }
         },
         {
-            "name": "graft_3_a20_m2.5.stl",
-            "path": "BMV_NAR/graft_3_a20_m2.5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/graft_3_a20_m2.5.stl",
+            "name": "graft_3_a20_m25.stl",
+            "path": "BMV_NAR/graft_3_a20_m25.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/graft_3_a20_m25.stl",
             "opacity": 0.4,
             "color": "#7f7f7f",
             "material": {
@@ -163,9 +163,9 @@
             }
         },
         {
-            "name": "remnant_1_a10_m2.5.stl",
-            "path": "BMV_NAR/remnant_1_a10_m2.5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/remnant_1_a10_m2.5.stl",
+            "name": "remnant_1_a10_m25.stl",
+            "path": "BMV_NAR/remnant_1_a10_m25.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/remnant_1_a10_m25.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
@@ -181,9 +181,9 @@
             }
         },
         {
-            "name": "remnant_2_a15_m2.5.stl",
-            "path": "BMV_NAR/remnant_2_a15_m2.5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/remnant_2_a15_m2.5.stl",
+            "name": "remnant_2_a15_m25.stl",
+            "path": "BMV_NAR/remnant_2_a15_m25.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/remnant_2_a15_m25.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
@@ -199,9 +199,9 @@
             }
         },
         {
-            "name": "remnant_3_a20_m2.5.stl",
-            "path": "BMV_NAR/remnant_3_a20_m2.5.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/remnant_3_a20_m2.5.stl",
+            "name": "remnant_3_a20_m25.stl",
+            "path": "BMV_NAR/remnant_3_a20_m25.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NAR/remnant_3_a20_m25.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
