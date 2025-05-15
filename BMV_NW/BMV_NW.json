@@ -109,6 +109,24 @@
             }
         },
         {
+            "name": "mass_shell.stl",
+            "path": "BMV_NW/mass_shell.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NW/mass_shell.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
             "name": "svc.stl",
             "path": "BMV_NW/svc.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NW/svc.stl",
