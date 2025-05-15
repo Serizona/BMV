@@ -112,7 +112,7 @@
             "name": "mass_shell.stl",
             "path": "BMV_NW/mass_shell.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_NW/mass_shell.stl",
-            "opacity": 0.8,
+            "opacity": 0.4,
             "color": "#000000",
             "material": {
                 "type": "MeshStandardMaterial",
