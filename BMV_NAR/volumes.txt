@@ -1,9 +1,9 @@
 File STL		Volume (cm³)
 ========================================
-graft_1_a10_m2.5.stl		85.85259 cm³
-graft_2_a15_m2.5.stl		115.75077 cm³
-graft_3_a20_m2.5.stl		142.60860 cm³
+graft_1_a10_m25.stl		85.85259 cm³
+graft_2_a15_m25.stl		115.75077 cm³
+graft_3_a20_m25.stl		142.60860 cm³
 mass.stl		0.70152 cm³
-remnant_1_a10_m2.5.stl		1292.06339 cm³
-remnant_2_a15_m2.5.stl		1263.58977 cm³
-remnant_3_a20_m2.5.stl		1237.61776 cm³
+remnant_1_a10_m25.stl		1292.06339 cm³
+remnant_2_a15_m25.stl		1263.58977 cm³
+remnant_3_a20_m25.stl		1237.61776 cm³
