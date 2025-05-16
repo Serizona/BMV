@@ -1,14 +1,14 @@
 File STL		Volume (cm³)
 ========================================
-PVterritory_1.stl		66.54826 cm³
-PVterritory_10.stl		104.98501 cm³
-PVterritory_11.stl		120.22831 cm³
-PVterritory_2.stl		184.76392 cm³
-PVterritory_3.stl		251.55746 cm³
-PVterritory_4.stl		78.54174 cm³
-PVterritory_5.stl		106.31328 cm³
-PVterritory_6.stl		156.44111 cm³
-PVterritory_7.stl		79.19607 cm³
-PVterritory_8.stl		172.15094 cm³
-PVterritory_9.stl		100.58180 cm³
+PVterritory_1.stl		66.53835 cm³
+PVterritory_10.stl		105.00535 cm³
+PVterritory_11.stl		120.21942 cm³
+PVterritory_2.stl		184.74281 cm³
+PVterritory_3.stl		251.54681 cm³
+PVterritory_4.stl		78.49118 cm³
+PVterritory_5.stl		106.31015 cm³
+PVterritory_6.stl		156.42330 cm³
+PVterritory_7.stl		79.16733 cm³
+PVterritory_8.stl		172.13986 cm³
+PVterritory_9.stl		100.57744 cm³
 mass.stl		0.70152 cm³
