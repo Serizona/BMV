@@ -1,3 +1,34 @@
 File STL		Volume (cm³)
 ========================================
+HVbranch_LHV_II_14.stl		1.93357 cm³
+HVbranch_LHV_II_4.stl		2.01847 cm³
+HVbranch_LHV_IVa_12.stl		0.84640 cm³
+HVbranch_LHV_IVa_13.stl		0.14081 cm³
+HVbranch_LHV_IVa_26.stl		0.94973 cm³
+HVbranch_LHV_IVa_27.stl		0.51364 cm³
+HVbranch_LHV_IVb_2.stl		1.23565 cm³
+HVbranch_MHV_IVa_17.stl		0.21899 cm³
+HVbranch_MHV_IVa_18.stl		0.41399 cm³
+HVbranch_MHV_IVa_5.stl		0.17492 cm³
+HVbranch_MHV_IVa_7.stl		0.02169 cm³
+HVbranch_MHV_IVa_8.stl		0.40893 cm³
+HVbranch_MHV_VIII_6.stl		0.53714 cm³
+HVbranch_MHV_VII_15.stl		0.31259 cm³
+HVbranch_MHV_VII_30.stl		0.50072 cm³
+HVbranch_MHV_VII_9.stl		0.45409 cm³
+HVbranch_MHV_V_1.stl		0.68808 cm³
+HVbranch_MHV_V_31.stl		0.75853 cm³
+HVbranch_RHV_VII_11.stl		0.80849 cm³
+HVbranch_RHV_VII_21.stl		0.22094 cm³
+HVbranch_RHV_VII_22.stl		0.37269 cm³
+HVbranch_RHV_VII_24.stl		0.48841 cm³
+HVbranch_RHV_VI_10.stl		0.98862 cm³
+HVbranch_RHV_VI_16.stl		0.45045 cm³
+HVbranch_RHV_VI_19.stl		0.59534 cm³
+HVbranch_RHV_VI_20.stl		0.37566 cm³
+HVbranch_RHV_VI_23.stl		0.13987 cm³
+HVbranch_RHV_VI_25.stl		0.11940 cm³
+HVbranch_RHV_VI_28.stl		0.38159 cm³
+HVbranch_RHV_VI_29.stl		0.15125 cm³
+HVbranch_RHV_VI_3.stl		0.47904 cm³
 mass.stl		0.70152 cm³
