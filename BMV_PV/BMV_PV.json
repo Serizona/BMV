@@ -5,7 +5,7 @@
             "path": "BMV_PV/PVbranch_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#e7bec0",
+            "color": "#05dcaa",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -23,7 +23,7 @@
             "path": "BMV_PV/PVbranch_10.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_10.stl",
             "opacity": 1.0,
-            "color": "#d04fe7",
+            "color": "#d87425",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "BMV_PV/PVbranch_11.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_11.stl",
             "opacity": 1.0,
-            "color": "#76bb4b",
+            "color": "#14368f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "BMV_PV/PVbranch_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#747c53",
+            "color": "#a37936",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "BMV_PV/PVbranch_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#f1bb7c",
+            "color": "#b05357",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "BMV_PV/PVbranch_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_4.stl",
             "opacity": 1.0,
-            "color": "#f42cc3",
+            "color": "#77ce24",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "BMV_PV/PVbranch_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_5.stl",
             "opacity": 1.0,
-            "color": "#bf788b",
+            "color": "#866551",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "BMV_PV/PVbranch_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_6.stl",
             "opacity": 1.0,
-            "color": "#f1efab",
+            "color": "#395005",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -149,7 +149,7 @@
             "path": "BMV_PV/PVbranch_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_7.stl",
             "opacity": 1.0,
-            "color": "#c05ae7",
+            "color": "#44c8a9",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "BMV_PV/PVbranch_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_8.stl",
             "opacity": 1.0,
-            "color": "#1aedde",
+            "color": "#2072b0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "BMV_PV/PVbranch_9.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVbranch_9.stl",
             "opacity": 1.0,
-            "color": "#13c76c",
+            "color": "#7c610e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "BMV_PV/PVterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_1.stl",
             "opacity": 0.4,
-            "color": "#e7bec0",
+            "color": "#05dcaa",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -221,7 +221,7 @@
             "path": "BMV_PV/PVterritory_10.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_10.stl",
             "opacity": 0.4,
-            "color": "#d04fe7",
+            "color": "#d87425",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -239,7 +239,7 @@
             "path": "BMV_PV/PVterritory_11.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_11.stl",
             "opacity": 0.4,
-            "color": "#76bb4b",
+            "color": "#14368f",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -257,7 +257,7 @@
             "path": "BMV_PV/PVterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_2.stl",
             "opacity": 0.4,
-            "color": "#747c53",
+            "color": "#a37936",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -275,7 +275,7 @@
             "path": "BMV_PV/PVterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_3.stl",
             "opacity": 0.4,
-            "color": "#f1bb7c",
+            "color": "#b05357",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -293,7 +293,7 @@
             "path": "BMV_PV/PVterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_4.stl",
             "opacity": 0.4,
-            "color": "#f42cc3",
+            "color": "#77ce24",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -311,7 +311,7 @@
             "path": "BMV_PV/PVterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_5.stl",
             "opacity": 0.4,
-            "color": "#bf788b",
+            "color": "#866551",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -329,7 +329,7 @@
             "path": "BMV_PV/PVterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_6.stl",
             "opacity": 0.4,
-            "color": "#f1efab",
+            "color": "#395005",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -347,7 +347,7 @@
             "path": "BMV_PV/PVterritory_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_7.stl",
             "opacity": 0.4,
-            "color": "#c05ae7",
+            "color": "#44c8a9",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -365,7 +365,7 @@
             "path": "BMV_PV/PVterritory_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_8.stl",
             "opacity": 0.4,
-            "color": "#1aedde",
+            "color": "#2072b0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -383,7 +383,7 @@
             "path": "BMV_PV/PVterritory_9.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_PV/PVterritory_9.stl",
             "opacity": 0.4,
-            "color": "#13c76c",
+            "color": "#7c610e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
