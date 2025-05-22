@@ -1,6 +1,132 @@
 {
     "models": [
         {
+            "name": "HA_main_brach.stl",
+            "path": "BMV_HA/HA_main_brach.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HA_main_brach.stl",
+            "opacity": 1.0,
+            "color": "#edece3",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "HAbranch_1.stl",
+            "path": "BMV_HA/HAbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAbranch_1.stl",
+            "opacity": 1.0,
+            "color": "#766082",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "HAbranch_2.stl",
+            "path": "BMV_HA/HAbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAbranch_2.stl",
+            "opacity": 1.0,
+            "color": "#39fbc5",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "HAbranch_3.stl",
+            "path": "BMV_HA/HAbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAbranch_3.stl",
+            "opacity": 1.0,
+            "color": "#6ec6e3",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "HAterritory_1.stl",
+            "path": "BMV_HA/HAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#766082",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "HAterritory_2.stl",
+            "path": "BMV_HA/HAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#39fbc5",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "HAterritory_3.stl",
+            "path": "BMV_HA/HAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#6ec6e3",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
             "name": "mass.stl",
             "path": "BMV_HA/mass.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/mass.stl",
