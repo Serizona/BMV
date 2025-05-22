@@ -1,4 +1,4 @@
 File STL		Volume (cm³)
 ========================================
-liver.stl		1312.87876 cm³
+liver.stl		1312.74220 cm³
 mass.stl		0.70152 cm³
