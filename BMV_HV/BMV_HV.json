@@ -5,7 +5,7 @@
             "path": "BMV_HV/HVbranch_LHV_II_14.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_LHV_II_14.stl",
             "opacity": 1.0,
-            "color": "#9be5a2",
+            "color": "#bcc950",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -23,7 +23,7 @@
             "path": "BMV_HV/HVbranch_LHV_II_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_LHV_II_4.stl",
             "opacity": 1.0,
-            "color": "#8a7e69",
+            "color": "#cf3fbb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "BMV_HV/HVbranch_LHV_IVa_12.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_LHV_IVa_12.stl",
             "opacity": 1.0,
-            "color": "#cfc4c7",
+            "color": "#da1216",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "BMV_HV/HVbranch_LHV_IVa_13.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_LHV_IVa_13.stl",
             "opacity": 1.0,
-            "color": "#851be3",
+            "color": "#a17dac",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "BMV_HV/HVbranch_LHV_IVa_26.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_LHV_IVa_26.stl",
             "opacity": 1.0,
-            "color": "#1337eb",
+            "color": "#90502c",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "BMV_HV/HVbranch_LHV_IVa_27.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_LHV_IVa_27.stl",
             "opacity": 1.0,
-            "color": "#732766",
+            "color": "#b2c603",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "BMV_HV/HVbranch_LHV_IVb_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_LHV_IVb_2.stl",
             "opacity": 1.0,
-            "color": "#39fbc5",
+            "color": "#a3b595",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "BMV_HV/HVbranch_MHV_IVa_17.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_IVa_17.stl",
             "opacity": 1.0,
-            "color": "#fe87a5",
+            "color": "#0f2003",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -149,7 +149,7 @@
             "path": "BMV_HV/HVbranch_MHV_IVa_18.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_IVa_18.stl",
             "opacity": 1.0,
-            "color": "#641f8c",
+            "color": "#bfaca2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "BMV_HV/HVbranch_MHV_IVa_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_IVa_5.stl",
             "opacity": 1.0,
-            "color": "#17dbc6",
+            "color": "#050ec4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "BMV_HV/HVbranch_MHV_IVa_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_IVa_7.stl",
             "opacity": 1.0,
-            "color": "#bc48bc",
+            "color": "#84b7b6",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "BMV_HV/HVbranch_MHV_IVa_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_IVa_8.stl",
             "opacity": 1.0,
-            "color": "#8c60f6",
+            "color": "#783704",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -221,7 +221,7 @@
             "path": "BMV_HV/HVbranch_MHV_VIII_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_VIII_6.stl",
             "opacity": 1.0,
-            "color": "#f3fe90",
+            "color": "#959dd5",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -239,7 +239,7 @@
             "path": "BMV_HV/HVbranch_MHV_VII_15.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_VII_15.stl",
             "opacity": 1.0,
-            "color": "#25724d",
+            "color": "#842450",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -257,7 +257,7 @@
             "path": "BMV_HV/HVbranch_MHV_VII_30.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_VII_30.stl",
             "opacity": 1.0,
-            "color": "#6f363c",
+            "color": "#f13229",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -275,7 +275,7 @@
             "path": "BMV_HV/HVbranch_MHV_VII_9.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_VII_9.stl",
             "opacity": 1.0,
-            "color": "#492ac7",
+            "color": "#57e79a",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -293,7 +293,7 @@
             "path": "BMV_HV/HVbranch_MHV_V_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_V_1.stl",
             "opacity": 1.0,
-            "color": "#766082",
+            "color": "#0a1d93",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -311,7 +311,7 @@
             "path": "BMV_HV/HVbranch_MHV_V_31.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_MHV_V_31.stl",
             "opacity": 1.0,
-            "color": "#4bfcaf",
+            "color": "#7d7859",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -329,7 +329,7 @@
             "path": "BMV_HV/HVbranch_RHV_VII_11.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VII_11.stl",
             "opacity": 1.0,
-            "color": "#2cee3c",
+            "color": "#4cee63",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -347,7 +347,7 @@
             "path": "BMV_HV/HVbranch_RHV_VII_21.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VII_21.stl",
             "opacity": 1.0,
-            "color": "#08dd8e",
+            "color": "#3d0045",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -365,7 +365,7 @@
             "path": "BMV_HV/HVbranch_RHV_VII_22.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VII_22.stl",
             "opacity": 1.0,
-            "color": "#d77341",
+            "color": "#a1c7d7",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -383,7 +383,7 @@
             "path": "BMV_HV/HVbranch_RHV_VII_24.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VII_24.stl",
             "opacity": 1.0,
-            "color": "#ba4730",
+            "color": "#1d0209",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -401,7 +401,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_10.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_10.stl",
             "opacity": 1.0,
-            "color": "#3bc385",
+            "color": "#078398",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -419,7 +419,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_16.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_16.stl",
             "opacity": 1.0,
-            "color": "#874138",
+            "color": "#1c6d09",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -437,7 +437,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_19.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_19.stl",
             "opacity": 1.0,
-            "color": "#4506ba",
+            "color": "#316213",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -455,7 +455,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_20.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_20.stl",
             "opacity": 1.0,
-            "color": "#82e566",
+            "color": "#5f0238",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -473,7 +473,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_23.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_23.stl",
             "opacity": 1.0,
-            "color": "#43dd85",
+            "color": "#840b76",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -491,7 +491,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_25.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_25.stl",
             "opacity": 1.0,
-            "color": "#d7bb11",
+            "color": "#ce9c9d",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -509,7 +509,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_28.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_28.stl",
             "opacity": 1.0,
-            "color": "#affef2",
+            "color": "#5e7edd",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -527,7 +527,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_29.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_29.stl",
             "opacity": 1.0,
-            "color": "#0ac2e7",
+            "color": "#a474f2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -545,7 +545,7 @@
             "path": "BMV_HV/HVbranch_RHV_VI_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVbranch_RHV_VI_3.stl",
             "opacity": 1.0,
-            "color": "#6ec6e3",
+            "color": "#4cb545",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -563,7 +563,7 @@
             "path": "BMV_HV/HVterritory_LHV_II_14.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_LHV_II_14.stl",
             "opacity": 0.4,
-            "color": "#9be5a2",
+            "color": "#bcc950",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -581,7 +581,7 @@
             "path": "BMV_HV/HVterritory_LHV_II_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_LHV_II_4.stl",
             "opacity": 0.4,
-            "color": "#8a7e69",
+            "color": "#cf3fbb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -599,7 +599,7 @@
             "path": "BMV_HV/HVterritory_LHV_IVa_12.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_LHV_IVa_12.stl",
             "opacity": 0.4,
-            "color": "#cfc4c7",
+            "color": "#da1216",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -617,7 +617,7 @@
             "path": "BMV_HV/HVterritory_LHV_IVa_13.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_LHV_IVa_13.stl",
             "opacity": 0.4,
-            "color": "#851be3",
+            "color": "#a17dac",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -635,7 +635,7 @@
             "path": "BMV_HV/HVterritory_LHV_IVa_26.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_LHV_IVa_26.stl",
             "opacity": 0.4,
-            "color": "#1337eb",
+            "color": "#90502c",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -653,7 +653,7 @@
             "path": "BMV_HV/HVterritory_LHV_IVa_27.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_LHV_IVa_27.stl",
             "opacity": 0.4,
-            "color": "#732766",
+            "color": "#b2c603",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -671,7 +671,7 @@
             "path": "BMV_HV/HVterritory_LHV_IVb_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_LHV_IVb_2.stl",
             "opacity": 0.4,
-            "color": "#39fbc5",
+            "color": "#a3b595",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -689,7 +689,7 @@
             "path": "BMV_HV/HVterritory_MHV_IVa_17.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_IVa_17.stl",
             "opacity": 0.4,
-            "color": "#fe87a5",
+            "color": "#0f2003",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -707,7 +707,7 @@
             "path": "BMV_HV/HVterritory_MHV_IVa_18.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_IVa_18.stl",
             "opacity": 0.4,
-            "color": "#641f8c",
+            "color": "#bfaca2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -725,7 +725,7 @@
             "path": "BMV_HV/HVterritory_MHV_IVa_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_IVa_5.stl",
             "opacity": 0.4,
-            "color": "#17dbc6",
+            "color": "#050ec4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -743,7 +743,7 @@
             "path": "BMV_HV/HVterritory_MHV_IVa_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_IVa_7.stl",
             "opacity": 0.4,
-            "color": "#bc48bc",
+            "color": "#84b7b6",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -761,7 +761,7 @@
             "path": "BMV_HV/HVterritory_MHV_IVa_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_IVa_8.stl",
             "opacity": 0.4,
-            "color": "#8c60f6",
+            "color": "#783704",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -779,7 +779,7 @@
             "path": "BMV_HV/HVterritory_MHV_VIII_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_VIII_6.stl",
             "opacity": 0.4,
-            "color": "#f3fe90",
+            "color": "#959dd5",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -797,7 +797,7 @@
             "path": "BMV_HV/HVterritory_MHV_VII_15.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_VII_15.stl",
             "opacity": 0.4,
-            "color": "#25724d",
+            "color": "#842450",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -815,7 +815,7 @@
             "path": "BMV_HV/HVterritory_MHV_VII_30.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_VII_30.stl",
             "opacity": 0.4,
-            "color": "#6f363c",
+            "color": "#f13229",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -833,7 +833,7 @@
             "path": "BMV_HV/HVterritory_MHV_VII_9.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_VII_9.stl",
             "opacity": 0.4,
-            "color": "#492ac7",
+            "color": "#57e79a",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -851,7 +851,7 @@
             "path": "BMV_HV/HVterritory_MHV_V_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_V_1.stl",
             "opacity": 0.4,
-            "color": "#766082",
+            "color": "#0a1d93",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -869,7 +869,7 @@
             "path": "BMV_HV/HVterritory_MHV_V_31.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_MHV_V_31.stl",
             "opacity": 0.4,
-            "color": "#4bfcaf",
+            "color": "#7d7859",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -887,7 +887,7 @@
             "path": "BMV_HV/HVterritory_RHV_VII_11.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VII_11.stl",
             "opacity": 0.4,
-            "color": "#2cee3c",
+            "color": "#4cee63",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -905,7 +905,7 @@
             "path": "BMV_HV/HVterritory_RHV_VII_21.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VII_21.stl",
             "opacity": 0.4,
-            "color": "#08dd8e",
+            "color": "#3d0045",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -923,7 +923,7 @@
             "path": "BMV_HV/HVterritory_RHV_VII_22.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VII_22.stl",
             "opacity": 0.4,
-            "color": "#d77341",
+            "color": "#a1c7d7",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -941,7 +941,7 @@
             "path": "BMV_HV/HVterritory_RHV_VII_24.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VII_24.stl",
             "opacity": 0.4,
-            "color": "#ba4730",
+            "color": "#1d0209",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -959,7 +959,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_10.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_10.stl",
             "opacity": 0.4,
-            "color": "#3bc385",
+            "color": "#078398",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -977,7 +977,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_16.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_16.stl",
             "opacity": 0.4,
-            "color": "#874138",
+            "color": "#1c6d09",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -995,7 +995,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_19.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_19.stl",
             "opacity": 0.4,
-            "color": "#4506ba",
+            "color": "#316213",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -1013,7 +1013,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_20.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_20.stl",
             "opacity": 0.4,
-            "color": "#82e566",
+            "color": "#5f0238",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -1031,7 +1031,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_23.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_23.stl",
             "opacity": 0.4,
-            "color": "#43dd85",
+            "color": "#840b76",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -1049,7 +1049,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_25.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_25.stl",
             "opacity": 0.4,
-            "color": "#d7bb11",
+            "color": "#ce9c9d",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -1067,7 +1067,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_28.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_28.stl",
             "opacity": 0.4,
-            "color": "#affef2",
+            "color": "#5e7edd",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -1085,7 +1085,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_29.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_29.stl",
             "opacity": 0.4,
-            "color": "#0ac2e7",
+            "color": "#a474f2",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -1103,7 +1103,7 @@
             "path": "BMV_HV/HVterritory_RHV_VI_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HV/HVterritory_RHV_VI_3.stl",
             "opacity": 0.4,
-            "color": "#6ec6e3",
+            "color": "#4cb545",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
