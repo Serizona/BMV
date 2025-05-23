@@ -1,3 +1,6 @@
 File STL		Volume (cm³)
 ========================================
+HAterritory_1.stl		631.76304 cm³
+HAterritory_2.stl		439.24002 cm³
+HAterritory_3.stl		241.22818 cm³
 mass.stl		0.70152 cm³
