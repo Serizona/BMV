@@ -1,6 +1,6 @@
 File STL		Volume (cm³)
 ========================================
-HVterritory_LHV_II_14.stl		120.47496 cm³
+HVterritory_LHV_III_14.stl		120.47496 cm³
 HVterritory_LHV_II_4.stl		150.57613 cm³
 HVterritory_LHV_IVa_12.stl		65.82094 cm³
 HVterritory_LHV_IVa_13.stl		14.39346 cm³
@@ -11,9 +11,9 @@ HVterritory_MHV_IVa_17.stl		31.40199 cm³
 HVterritory_MHV_IVa_18.stl		45.70829 cm³
 HVterritory_MHV_IVa_5.stl		13.82426 cm³
 HVterritory_MHV_IVa_7.stl		5.41552 cm³
-HVterritory_MHV_IVa_8.stl		121.38622 cm³
+HVterritory_MHV_I_8.stl		121.38622 cm³
+HVterritory_MHV_VIII_15.stl		35.88710 cm³
 HVterritory_MHV_VIII_6.stl		41.59195 cm³
-HVterritory_MHV_VII_15.stl		35.88710 cm³
 HVterritory_MHV_VII_30.stl		51.02966 cm³
 HVterritory_MHV_VII_9.stl		38.32060 cm³
 HVterritory_MHV_V_1.stl		58.34771 cm³
