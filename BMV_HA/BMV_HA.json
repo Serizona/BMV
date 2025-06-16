@@ -23,7 +23,7 @@
             "path": "BMV_HA/HAbranch_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAbranch_1.stl",
             "opacity": 1.0,
-            "color": "#ddc128",
+            "color": "#e74a33",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "BMV_HA/HAbranch_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAbranch_2.stl",
             "opacity": 1.0,
-            "color": "#c2a4ce",
+            "color": "#821664",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "BMV_HA/HAbranch_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAbranch_3.stl",
             "opacity": 1.0,
-            "color": "#4d9db1",
+            "color": "#b52378",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "BMV_HA/HAterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAterritory_1.stl",
             "opacity": 0.4,
-            "color": "#ddc128",
+            "color": "#e74a33",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "BMV_HA/HAterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAterritory_2.stl",
             "opacity": 0.4,
-            "color": "#c2a4ce",
+            "color": "#821664",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "BMV_HA/HAterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/BMV/master/BMV_HA/HAterritory_3.stl",
             "opacity": 0.4,
-            "color": "#4d9db1",
+            "color": "#b52378",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
